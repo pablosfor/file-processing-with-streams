@@ -1,0 +1,1 @@
+This basic example reads data from one stream, parses it row by row applying validations and generating (also in stream, an error output file).
