@@ -1,0 +1,2 @@
+ValidationError(Code=invalid-code, Message=El campo code no puede ser mayor a mil)
+ValidationError(Code=footer-count-mismatch, Message=La cantidad de 3 elementos indicados por el footer no coincide con los 4 elementos procesados)
